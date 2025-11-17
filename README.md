@@ -21,6 +21,8 @@ Welcome to the official repository showcasing our apps and designs.
 
 ---
 
+Assets used in Idusa: ["Low Poly Isometric Baby Girl Room"](https://skfb.ly/6Vz9y) by Abhijeet is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
 ## Privacy Policy
 
 **No user data is collected while using the app.**  
